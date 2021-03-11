@@ -43,7 +43,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 1. clone the repository
 ```
-git clone https://github.com/ialtafshaikh/react-blog-frontend.git
+git clone https://github.com/altafshaikh/react-blog-frontend-app.git
 ```
 
 2. change directory to `cd react-blog-frontend`
@@ -109,13 +109,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-## Live Demo of this Project
-
-[Live Working](https://react-blog-frontend.vercel.app/)
 
 ## Author
 
-* **Altaf Shaikh** - *work by* - [ialtafshaikh](https://github.com/ialtafshaikh)
+* **Altaf Shaikh** - *work by* - [altafshaikh](https://github.com/altafshaikh)
 
 ![altaf shaikh](https://raw.githubusercontent.com/ialtafshaikh/static-files/master/coollogo_com-327551664.png)
 
